@@ -1,0 +1,1 @@
+¿Qué expectativa tiene de la materia? Mis expectativas son ampliar mis conocimientos en Python y nuevas herramientas como Git y GitHub
